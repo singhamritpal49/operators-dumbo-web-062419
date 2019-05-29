@@ -7,8 +7,8 @@ end
 end
 
 def not_safe?(speed)
-	age = =
+	#age = =
 
-	age < 2 ? "baby" : "not a baby"
+	#age < 2 ? "baby" : "not a baby"
 
 end
